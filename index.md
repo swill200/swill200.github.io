@@ -1,3 +1,4 @@
+  
 # I'm still in school, so I'm mostly just testing, researching, and trying to build a decent portfolio.  
 I have been working full time to support my family since the moment I enrolled in college to pursue my AS and BS in Computer Science. Which, quite unfortunately, has precluded
 me from pursuing an internship as a software dev. I would be completely willing to quit my job and take a pay cut in order to work an internship so I could gain some incredibly
