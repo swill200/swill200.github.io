@@ -4,7 +4,7 @@ I have been working full time to support my family since the moment I enrolled i
 me from pursuing an internship as a software dev. I would be completely willing to quit my job and take a pay cut in order to work an internship so I could gain some incredibly
 valuable experience, but there is a distinct lack of options in Wyoming and I will not be able to leave the state for a little while yet.  
 
-### But, I have been working on little project at my current job...  
+### But, I have been working on a little project at my current job...  
 
 # This is the Lead Tech Shift Report  
 
