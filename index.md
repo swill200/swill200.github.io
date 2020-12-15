@@ -1,4 +1,3 @@
-# Hi! I'm Stephen Williams!
 Crazy unique name, I know... I'm a software engineer in training, and this is my get to know me site.
 ## I'm still in school, so I'm mostly just testing, researching, and trying to build a decent portfolio.  
 I have been working full time to support my family since the moment I enrolled in college to pursue my AS and BS in Computer Science. Which, quite unfortunately, has precluded
