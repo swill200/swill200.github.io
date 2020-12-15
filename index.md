@@ -1,9 +1,8 @@
 Crazy unique name, I know... I'm a software engineer in training, and this is my get to know me site.
 ## I'm still in school, so I'm mostly just testing, researching, and trying to build a decent portfolio.  
-I have been working full time to support my family since the moment I enrolled in college to pursue my AS and BS in Computer Science. Which, quite unfortunately, has precluded
-me from pursuing an internship as a software dev. I would be completely willing to quit my job and take a pay cut in order to work an internship so I could gain some incredibly
-valuable experience, but there is a distinct lack of options in Wyoming and I will not be able to leave the state for a little while yet.  
-
+I have been working full time to support my family since the moment I enrolled in college to pursue my AS and BS in Computer Science. Unfortunately, this has precluded me from pursuing an internship as a software dev. I would be completely willing to quit my job and take a pay cut in order to work an internship so I could gain some incredibly valuable experience, but there is a distinct lack of options in Wyoming and I will not be able to leave the state for a little while yet. 
+  
+  
 ### But, I have been working on a little project at my current job...  
 
 # This is the Lead Tech Shift Report  
