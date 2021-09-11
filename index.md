@@ -4,7 +4,7 @@ I have been working full time to support my family since the moment I enrolled i
   
   
 ### But, I have been working on a little project at my current job...
-\
+&Newline
 
 # This is the Lead Tech Shift Report  
 
