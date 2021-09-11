@@ -28,4 +28,4 @@ This window is the heart of the program. Technicians are able to effectively com
 
 
 
-### I will be graduating in May of 2021 and will be willing and able to accept a software developer position immediately after.
+### Please have a look at my [LinkedIn](https://www.linkedin.com/in/swilli91/) page!
