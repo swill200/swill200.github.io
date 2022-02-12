@@ -1,4 +1,4 @@
-# theme: jekyll-theme-architect
+theme: minimal-mistakes-jekyll
 # title: Hi! I'm <br />Stephen Williams,<br /> nice to meet you!
 # description: Bookmark this page and keep an eye out for updates!  
 # Welcome to Jekyll!
@@ -19,28 +19,3 @@
 title: Stephen Williams
 email: stephen.williams1129@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-  
-# A list of the pages to display in the navigation bar
-header_pages:
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - update_boostrap.sh
